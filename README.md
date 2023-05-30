@@ -1,1 +1,3 @@
-# 1q-proj
+# 1Q Enea proj
+
+> Game source code will be avaiable soon
